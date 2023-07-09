@@ -1,0 +1,48 @@
+.section-2{
+    padding-bottom: 2.5rem;
+    background-color: rgb(235, 93, 117);
+    display: flex;
+}
+.section-2-data-1{
+    width: 18.75rem;
+    color: white;
+    padding-top: 6.25rem;
+    margin-left: 11.25rem;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.section-2-span-1{
+    font-size: 1.25rem;
+}
+.section-2-span-2{
+    margin-top: .625rem;
+    font-size: 1.125rem;
+}
+.section-2-para-1{
+    word-spacing: .1875rem;
+    font-size: .625rem;
+    color: rgb(212, 208, 208);
+}
+.section-2-data-2{
+    width: 18.75rem;
+    color: white;
+    padding-top: 6.25rem;
+    margin-left: 7.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.section-3-para-1{
+    word-spacing: .1875rem;
+    font-size: .625rem;
+    color: rgb(212, 208, 208);
+    margin-top: 1.25rem;
+}
+.section-3-span-2{
+    margin-top: .625rem;
+}
+.section-3-span-1{
+    font-size: larger;
+    word-spacing: .1875rem;
+}

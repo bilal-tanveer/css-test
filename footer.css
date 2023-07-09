@@ -1,0 +1,40 @@
+footer{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 3.125rem;
+}
+.contact {
+    padding-top: 1.25rem;
+    margin-left: 1.25rem;
+    display: flex;
+    column-gap: 1.25rem;
+}
+.icons{
+    margin-left: 12.5rem;
+    margin-right: 100PX;
+    margin-top: 1.25rem;
+    display: flex;
+    justify-content: space-between;
+}
+.DATA p{
+margin-left: .625rem;
+margin-top: 0rem;
+}
+.insta{
+    width: 3.125rem;
+    height: 3.125rem;
+}
+.face{
+    width: 3.125rem;
+    height: 3.125rem;
+
+}
+.twitter{
+    width: 3.125rem;
+    height: 3.125rem;
+
+}
+footer div{
+    display: flex;
+}

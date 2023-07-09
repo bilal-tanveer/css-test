@@ -1,0 +1,29 @@
+nav{
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+    padding-top: .625rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav-img{
+    margin-top: .625rem;
+    margin-left: 1.25rem;
+    margin-bottom: .625rem;
+    width: 3.575rem;
+    border-radius: 50%;
+}
+.anchor{
+    margin-right: 1.875rem;
+    width: 25rem;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.anchor a{
+    color: gray;
+    text-decoration: none;
+}
+.anchor a:hover{
+    color: rgb(151, 45, 221);
+}
